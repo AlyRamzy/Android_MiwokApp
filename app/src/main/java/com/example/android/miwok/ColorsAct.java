@@ -12,7 +12,6 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 public class ColorsAct extends AppCompatActivity {
-    // colors Activity 
 
     private MediaPlayer md;
     private MediaPlayer.OnCompletionListener WhenDone= new MediaPlayer.OnCompletionListener() {
