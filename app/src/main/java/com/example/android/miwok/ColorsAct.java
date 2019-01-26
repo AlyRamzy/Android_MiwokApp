@@ -13,6 +13,11 @@ import java.util.ArrayList;
 
 public class ColorsAct extends AppCompatActivity {
 
+    // colors Activity test
+    //another test
+
+
+
     private MediaPlayer md;
     private MediaPlayer.OnCompletionListener WhenDone= new MediaPlayer.OnCompletionListener() {
         @Override
